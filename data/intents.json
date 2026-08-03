@@ -1,0 +1,20 @@
+
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "Good day", "Is anyone there?"],
+      "responses": ["Hello! How can I assist you with your shopping today?", "Hi there! Welcome to our store."]
+    },
+    {
+      "tag": "store_hours",
+      "patterns": ["What are your opening hours?", "When do you close?", "Store timing"],
+      "responses": ["We are open daily from 9:00 AM to 9:00 PM."]
+    },
+    {
+      "tag": "returns",
+      "patterns": ["What is your return policy?", "How to return an item?", "Can I refund?"],
+      "responses": ["You can return any item within 30 days of purchase with a valid receipt."]
+    }
+  ]
+}

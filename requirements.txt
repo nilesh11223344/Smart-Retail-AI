@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+scikit-learn
+pandas
+numpy
+nltk
+opencv-python
+tensorflow==2.16.1
+joblib
+python-multipart
+gunicorn
